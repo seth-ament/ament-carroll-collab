@@ -1,0 +1,13 @@
+Peakset	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.all_reproducible	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	308738	41871.0363	7.3734	2.8823	1e-05	1e-05	1.5e-05
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.all_reproducible	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	54567	52369.0412	1.042	0.0593	0.389	0.389	0.389
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.all_reproducible	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	812848	130380.4602	6.2344	2.6402	1e-05	1e-05	1.5e-05
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	189962	17744.9952	10.7046	3.4202	1e-05	1e-05	1.5e-05
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	30730	21907.8624	1.4027	0.4882	0.15869	0.15869	0.173116363636364
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	465709	55535.9786	8.3856	3.0679	1e-05	1e-05	1.5e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.all_reproducible	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	147277	12960.2789	11.3629	3.5063	1e-05	1e-05	1.5e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.all_reproducible	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	22705	15892.5274	1.4286	0.5146	0.14279	0.14279	0.171348
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.all_reproducible	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	384029	40415.809	9.5017	3.2482	1e-05	1e-05	1.5e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.conditionally_reproducible	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	118716	9315.0677	12.7433	3.6717	1e-05	1e-05	1.5e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.conditionally_reproducible	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	19581	11402.8218	1.7171	0.78	0.0972	0.0972	0.1296
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.conditionally_reproducible	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	300143	29031.3392	10.3383	3.3699	1e-05	1e-05	1.5e-05

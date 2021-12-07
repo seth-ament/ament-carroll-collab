@@ -1,0 +1,9 @@
+Peakset	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.all_reproducible	pQ	3259480	566762.1865	5.751	2.5238	1e-05	1e-05	1e-05
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.all_reproducible	Wt	3464205	588516.5579	5.8863	2.5574	1e-05	1e-05	1e-05
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.conditionally_reproducible	pQ	1704460	241965.041	7.0442	2.8164	1e-05	1e-05	1e-05
+Htt_ChIPSeq.2017_2020_together.any_2_samples.reproducibility_groups.conditionally_reproducible	Wt	1776654	251306.9845	7.0696	2.8216	1e-05	1e-05	1e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.all_reproducible	pQ	1381205	174614.2155	7.91	2.9837	1e-05	1e-05	1e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.all_reproducible	Wt	1418376	181394.1212	7.8193	2.967	1e-05	1e-05	1e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.conditionally_reproducible	pQ	1042949	126139.4747	8.2682	3.0476	1e-05	1e-05	1e-05
+Htt_ChIPSeq.2017_2020_together.any_3_samples.reproducibility_groups.conditionally_reproducible	Wt	1074630	131160.786	8.1932	3.0344	1e-05	1e-05	1e-05
