@@ -1,1 +1,26 @@
 Analytical results after analyzing ChIP-Seq datasets from 2017 (WT and Q111het) and 2020 (WT and QQ) separately for 57k peak regions followed by meta analysis
+
+From: "Shetty, Amol" <AShetty@som.umaryland.edu>
+Subject: Re: Wave/ChIPSeq
+Date: September 2, 2021 at 4:24:10 PM EDT
+To: Jeff Carroll <carrol2@wwu.edu>, "Ament, Seth" <SAment@som.umaryland.edu>
+
+Hi Jeff, Seth,
+
+Find attached the following:
+
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/05_WT_Q111_QQ_data_analysis
+
+1. Slides including latest diffbind analyses (with separate PDFs for diffbind plots)
+    A. Slides include diffbind analysis for B2017 and B2020 analyzed together —> distortion due to batch differences
+    B. Slides include diffbind analysis for B2017 and B2020 analyzed separately for the common set of 57k peak regions
+    C. Slides include diffbind meta-analysis using results individual results from (B)
+2. Excel Spreadsheet with results before and after meta-analysis
+3. Plots illustrating diffbind results from 1A and 1B (that couldn’t be added to the the Slides
+
+Looking forward to your thoughts and comments.
+
+Regards,
+Amol
+
+---
