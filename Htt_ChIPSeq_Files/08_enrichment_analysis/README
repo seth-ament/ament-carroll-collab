@@ -3,3 +3,29 @@ Enrichment Analyses of:
 2. Analytical results after re-analyzing ActiveMotif ChIP-Seq datasets for EZH2, H3K4me3, H3K9me3, H3K27me3, H3K27Ac
 
 against several reference chromatin sets, other datasets, and genesets
+
+From: Amol Shetty <ashetty@som.umaryland.edu>
+Subject: Re: Talk today
+Date: December 7, 2021 at 12:54:23 PM EST
+To: Jeff Carroll <carrol2@wwu.edu>, "Ament, Seth" <SAment@som.umaryland.edu>
+
+Hi Jeff, Seth,
+
+I have uploaded all of the previously delivered GAT and ChIP Enrichment results to:
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/08_enrichment_analysis
+
+Additionally I have added the ‘Gene-centric DiffBind Results’ to the above directory which include the differential binding results within promoter regions of genes.
+    The differentially binding analyses was done using the Htt_ChIPSeq_Peaks based on ‘any_2_samples’ and ‘any_3_samples’ criteria
+    The differentially binding analyses was also done using the Active Motif Histone Mark Peak regions
+
+If a specific gene doesn’t show up then no overlapping peaks were found in the promoter region of the gene.
+
+Looking forward to your thoughts and comments at our meeting today.
+
+Lastly, I will be off for the last 3 weeks of the year and was told that I would be provided some resources to fill-in in my absence. But that didn’t happen so further analyses may be postponed till the new year.
+    If there are smaller details that you may need while we start to rewrite the manuscript, let me know and I will try and send those over.
+
+Regards,
+Amol
+
+---
