@@ -1,1 +1,33 @@
 Analytical results after combining ChIP-Seq datasets from 2017 (WT and Q111het) and 2020 (WT and QQ)
+
+From: Amol Shetty <ashetty@som.umaryland.edu>
+Subject: Re: Wave/ChIPSeq
+Date: August 26, 2021 at 12:13:00 PM EDT
+To: Jeff Carroll <carrol2@wwu.edu>, "Ament, Seth" <SAment@som.umaryland.edu>
+
+Hi Jeff, Seth,
+
+Find attached the following:
+
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/04_WT_Q111_QQ_data_analysis
+
+1. Slides including latest analyses (with separate PDFs for version-specific plots)
+        I modified the reproducibility categories to hopefully simplify them
+        Regenerated the diffBind analyses using
+            1. edgeR correction (2 Batches and 2 conditions)
+            2. ComBat correction (2 Batches and 2 conditions)
+            3. ComBat correction (2 Batches and 3 genotypes)
+2. List of peaks from Version 3 with annotation
+3. Differentially bound peak regions for the following comparison
+    1. mHTT vs WT after batch correction using edgeR model
+    2. mHTT vs WT after batch correction using ComBat-Seq
+    3. Qhet vs WT after batch correction using ComBat-Seq
+    4. mHTT (a.k.a QQ) vs WT after batch correction using ComBat-Seq
+    5. mHTT (a.k.a QQ) vs Qhet after batch correction using ComBat-Seq
+
+Looking forward to your thoughts and comments.
+
+Regards,
+Amol
+
+---
