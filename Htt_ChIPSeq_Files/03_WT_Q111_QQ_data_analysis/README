@@ -1,1 +1,28 @@
 Analytical results after combining ChIP-Seq datasets from 2017 (WT and Q111het) and 2020 (WT and QQ)
+
+From: "Shetty, Amol" <AShetty@som.umaryland.edu>
+Subject: Re: Wave/ChIPSeq
+Date: August 17, 2021 at 5:19:33 PM EDT
+To: Jeff Carroll <carrol2@wwu.edu>, "Ament, Seth" <SAment@som.umaryland.edu>
+
+Hi Jeff, Seth,
+
+Find attached the following:
+
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/03_WT_Q111_QQ_data_analysis
+
+1. Slides from today’s meeting (with separate PDFs for version-specific plots
+2. List of peaks from Version 3 with annotation
+3. Differentially bound peak regions for the following comparison
+    1. 2020 WT vs 2017 WT
+    2. 2017 mHTT vs 2017 WT
+    3. 2020 mHTT vs 2020 WT
+    4. 2020 mHTT vs 2017 mHTT
+    5. mHTT vs WT after batch correction
+
+Looking forward to your thoughts and comments.
+
+Regards,
+Amol
+
+---
