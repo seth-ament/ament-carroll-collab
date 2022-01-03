@@ -1,1 +1,17 @@
 Analytical results after analyzing ChIP-Seq datasets from 2017 (WT and Q111het) and 2020 (WT and QQ) using Broad Peak strategy
+
+From: Amol Shetty <ashetty@som.umaryland.edu>
+Subject: Re: ChIPSeeker
+Date: December 1, 2021 at 11:10:17 AM EST
+To: Jeff Carroll <carrol2@wwu.edu>
+Cc: Seth Ament <sament@som.umaryland.edu>
+
+Hi Jeff,
+
+The peak files are accessible at:
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/07_WT_Q111_QQ_data_analysis
+
+Regards,
+Amol
+
+---
