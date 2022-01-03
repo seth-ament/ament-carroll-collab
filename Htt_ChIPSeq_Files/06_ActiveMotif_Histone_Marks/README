@@ -1,1 +1,41 @@
 Analytical results after re-analyzing ActiveMotif ChIP-Seq datasets for EZH2, H3K4me3, H3K9me3, H3K27me3, H3K27Ac
+
+From: Amol Shetty <ashetty@som.umaryland.edu>
+Subject: Re: AM H3K9me3 CSeq Striata 41393 (P-01I6 WWU)
+Date: October 8, 2021 at 3:10:55 PM EDT
+To: Jeff Carroll <carrol2@wwu.edu>
+Cc: Seth Ament <sament@som.umaryland.edu>
+
+Hi Jeff, Seth,
+
+Find attached the following:
+
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/06_ActiveMotif_Histone_Marks
+
+1. Slides illustrating results for the ActiveMotif Histone Mark Datasets
+2. List of peaks with annotation
+3. Differentially bound peak regions between Q111 and WT for each of the EZH2 and Histone Mark datasets
+4. Figure illustrating all 4 histone marks in one plot
+
+Additionally, I am attaching the first enrichment results of Chromatin States for the following peaksets of Htt ChIPseq:
+  A. Original analysis of only B2020 QQ and WT samples
+    1. Htt_WT_QQ.samples.diffbind_v20210329.B2020_mHTTvsWT.WT-enriched
+    2. Htt_WT_QQ.samples.diffbind_v20210329.B2020_mHTTvsWT.QQ-enriched
+  
+  B. Latest analysis of 57k peaks for B2017 and B2020 samples
+    3. Htt_ChIPSeq.diffbind_v20210831.B2017_mHTTvsWT.WT-enriched
+    4. Htt_ChIPSeq.diffbind_v20210831.B2017_mHTTvsWT.mHTT-enriched
+    5. Htt_ChIPSeq.diffbind_v20210831.B2020_mHTTvsWT.WT-enriched
+    6. Htt_ChIPSeq.diffbind_v20210831.B2020_mHTTvsWT.mHTT-enriched
+  
+  C. Reproducibility groups based on B2017 and B2020 samples
+    7. Htt_ChIPSeq.reproducibility_groups.WT-specific
+    8. Htt_ChIPSeq.reproducibility_groups.WT-mHTT-shared
+    9. Htt_ChIPSeq.reproducibility_groups.mHTT-specific
+
+Looking forward to your thoughts and comments.
+
+Regards,
+Amol
+
+---
