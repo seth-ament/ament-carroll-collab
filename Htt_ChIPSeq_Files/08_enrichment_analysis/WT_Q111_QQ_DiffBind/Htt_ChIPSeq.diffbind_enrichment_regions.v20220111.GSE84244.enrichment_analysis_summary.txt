@@ -1,0 +1,13 @@
+Peakset	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	0	43.7407	0.0224	-5.4835	0.90531	0.90531	0.90531
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	109197	10475.1278	10.4235	3.3818	1e-05	2e-05	2.4e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	0	12456.4158	1e-04	-13.6047	1e-05	2e-05	2.4e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	222	52.3794	4.1776	2.0627	0.06165	0.06165	0.0822
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	282663	32955.9209	8.5768	3.1004	1e-05	2e-05	2.4e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	2443	136.6018	17.7614	4.1507	0.00086	0.00086	0.00147428571428571
+Htt_ChIPSeq.any_3_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	0	75.094	0.0131	-6.2497	0.87892	0.87892	0.90531
+Htt_ChIPSeq.any_3_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27ac.filtered_qval_2.mm10.sorted.bed	88885	6904.879	12.8711	3.6861	1e-05	2e-05	2.4e-05
+Htt_ChIPSeq.any_3_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	0	8143.8153	1e-04	-12.9917	0.00016	0.00032	0.00032
+Htt_ChIPSeq.any_3_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K27me3.filtered_qval_2.mm10.sorted.bed	5915	97.3481	60.1537	5.9106	0.00197	0.00197	0.002955
+Htt_ChIPSeq.any_3_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	729	223.4233	3.2528	1.7017	0.12056	0.12056	0.144672
+Htt_ChIPSeq.any_3_samples.diffbind.B2020.genotype_enriched	Striatum_adult_PRC2neg_H3K4me3.filtered_qval_2.mm10.sorted.bed	215793	21676.0857	9.9549	3.3154	1e-05	2e-05	2.4e-05
