@@ -1,1 +1,25 @@
 Enrichment results after analyzing ChIP-Seq datasets from 2017 (WT and Q111het) and 2020 (WT and QQ) using Broad Peak strategy for DiffBind results comparing QQ vs WT in the 2020 dataset
+
+On Jan 18, 2022, at 12:54 PM, Shetty, Amol <AShetty@som.umaryland.edu> wrote:
+
+Hi Jeff, Seth,
+
+I have uploaded the following results:
+A. DiffBind results after analyzing ChIP-Seq datasets from 2017 (WT and Q111het) and 2020 (WT and QQ) using Broad Peak strategy
+    https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/07_WT_Q111_QQ_data_analysis/DiffBind_results
+    
+    This contains the unfiltered and filtered diffbind results for
+    1. 2017 (Q111 vs WT)
+    2. 2020 (QQ vs WT)
+
+B. Enrichment results after analyzing ChIP-Seq datasets from 2017 (WT and Q111het) and 2020 (WT and QQ) using Broad Peak strategy for DiffBind results comparing QQ vs WT in the 2020 dataset
+    https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/08_enrichment_analysis/WT_Q111_QQ_DiffBind
+    
+    This contains the enrichment analysis using the significant differentially bound peaks from 2020 (QQ vs WT) comparison
+    1. GAT enrichment against multiple reference genomic sets
+    2. Geneset enrichment against the LangFelder Genesets and other ChIPEnrich supported genesets
+
+Looking forward to your thoughts and comments.
+
+Regards,
+Amol
