@@ -2,5 +2,5 @@ Enrichment results after analyzing ChIP-Seq datasets from 2020 (WT and QQ)
 1. Downstreamed to 30M reads
 2. Broad Peak calling
 3. Merged Peaks (peaks found in any 2 samples)
-4. Peaks specific or shared between genotypes
-5. Peaks enriched in each genotype based on diffbind results
+4. Peaks specific or shared between genotypes (WT-specific, QQ-specific, WT-QQ-Shared)
+5. Peaks enriched in each genotype based on diffbind results (WT-enriched, QQ-enriched)
