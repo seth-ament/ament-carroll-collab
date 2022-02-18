@@ -1,0 +1,5 @@
+DiffBind results after analyzing ChIP-Seq datasets from 2020 (WT and QQ)
+1. Downstreamed to 30M reads
+2. Broad Peak calling
+3. Merged Peaks (peaks found in any 2 samples)
+4. p-value < 0.05
