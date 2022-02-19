@@ -3,3 +3,22 @@ DiffBind results after analyzing ChIP-Seq datasets from 2020 (WT and QQ)
 2. Broad Peak calling
 3. Merged Peaks (peaks found in any 2 samples)
 4. p-value < 0.05
+
+On Feb 19, 2022, at 10:53 AM, Shetty, Amol <AShetty@som.umaryland.edu> wrote:
+
+Hi Jeff, Seth,
+
+I have uploaded all of the results from latest iteration of analyses based on the WT and QQ samples from B2020 to:
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/09_B2020_WT_QQ_data_analysis
+
+These include:
+  1. Individual peak calls for each sample
+  2. Merged peak calls across samples
+  3. Unfiltered and filtered differential binding results for B2020 (QQ vs WT)
+  4. GAT enrichment against multiple reference genomic sets
+  5. Geneset enrichment against the LangFelder Genesets and other ChIPEnrich supported genesets
+
+Looking forward to your thoughts and comments. Have a great weekend!
+
+Regards,
+Amol
