@@ -1,91 +1,91 @@
-Peakset	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	EZH2	3342544	371802.4817	8.9901	3.1683	1e-05	1.25e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	EZH2.Q111-enriched	4767	372.2157	12.7755	3.6753	0.00668	0.01336	0.0143142857142857
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	EZH2.WT-enriched	0	21.5944	0.0443	-4.4979	0.96102	0.96102	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K27Ac	4694240	1180422.749	3.9767	1.9916	1e-05	1.25e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K27Ac.Q111-enriched	82829	14848.7342	5.5779	2.4797	1e-05	5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K27Ac.WT-enriched	33895	18417.8566	1.8403	0.8799	0.03277	0.054617	0.06554
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K27me3	465475	1310117.0546	0.3553	-1.4929	1e-05	1.25e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K27me3.Q111-enriched	0	933.4847	0.0011	-9.868	0.29253	0.36566	0.431601639344262
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K27me3.WT-enriched	55911	46115.0272	1.2124	0.2779	0.21736	0.31051	0.349328571428571
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K4me3	2832892	473253.9357	5.986	2.5816	1e-05	1.25e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K4me3.Q111-enriched	330238	59389.0756	5.5605	2.4752	1e-05	5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K4me3.WT-enriched	13242	1216.9172	10.8735	3.4427	0.00014	0.00046667	0.00039375
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K9me3	131987	147392.0122	0.8955	-0.1593	0.26711	0.26711	0.40745593220339
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K9me3.Q111-enriched	63788	36094.3798	1.7672	0.8215	0.0049	0.01225	0.0107560975609756
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	H3K9me3.WT-enriched	186	249.4226	0.7467	-0.4213	0.73145	0.81272	0.968095588235294
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2	105707	14025.6571	7.5362	2.9138	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2	1627777	186128.2214	8.7454	3.1285	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2	1169442	91136.7846	12.8316	3.6816	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2.Q111-enriched	0	185.0548	0.0054	-7.5396	0.79696	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2.Q111-enriched	0	87.0198	0.0114	-6.4598	0.95766	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2.Q111-enriched	0	15.4286	0.0609	-4.0381	0.96147	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2.WT-enriched	0	11.1491	0.0823	-3.6028	0.981	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2.WT-enriched	0	5.0348	0.1657	-2.5933	0.99472	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	EZH2.WT-enriched	0	1.0744	0.4821	-1.0527	0.99704	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac	157930	45919.0766	3.4393	1.7821	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac	2370865	590857.2811	4.0126	2.0045	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac	1355567	282758.8287	4.7941	2.2612	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac.Q111-enriched	0	605.5691	0.0016	-9.2445	0.20967	0.41934	0.343096363636364
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac.Q111-enriched	33954	7519.4516	4.515	2.1747	8e-05	8e-04	0.00024
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac.Q111-enriched	43013	3367.7065	12.7687	3.6745	1e-05	0.00015	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac.WT-enriched	327	735.6615	0.4453	-1.1673	0.40013	0.70611	0.580833870967742
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac.WT-enriched	13241	9130.6352	1.4501	0.5362	0.18494	0.3963	0.314049056603774
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27Ac.WT-enriched	14312	4487.2257	3.189	1.6731	0.04807	0.14421	0.09405
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3	161648	652993.2001	0.2476	-2.0142	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3	134892	312048.9764	0.4323	-1.21	0.00198	0.0022846	0.004455
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3	56443	51673.1822	1.0923	0.1274	0.24733	0.24733	0.383787931034483
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3.Q111-enriched	0	476.6021	0.0021	-8.8997	0.58691	0.9267	0.788386567164179
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3.Q111-enriched	0	196.6675	0.0051	-7.6269	0.92093	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3.Q111-enriched	0	38.683	0.0252	-5.3104	0.90393	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3.WT-enriched	15140	22901.5177	0.6611	-0.597	0.18044	0.3963	0.3123
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3.WT-enriched	2239	1740.9362	1.2859	0.3628	0.28218	0.52909	0.42327
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K27me3.WT-enriched	24542	11558.3113	2.1232	1.0863	0.08395	0.22895	0.160755319148936
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3	79717	18134.0968	4.3958	2.1361	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3	1372823	237280.8437	5.7856	2.5325	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3	953406	114283.7018	8.3424	3.0605	1e-05	1.5e-05	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3.Q111-enriched	1807	2146.5773	0.8419	-0.2483	0.49311	0.82185	0.682767692307692
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3.Q111-enriched	66552	14828.6168	4.4878	2.166	0.00152	0.0065143	0.0036
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3.Q111-enriched	214969	29914.2649	7.186	2.8452	1e-05	0.00015	3.21428571428571e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3.WT-enriched	0	52.1436	0.0188	-5.7318	0.86425	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3.WT-enriched	4638	613.0452	7.5548	2.9174	0.01251	0.0417	0.0261837209302326
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K4me3.WT-enriched	7893	285.0666	27.595	4.7863	0.00129	0.00645	0.00313783783783784
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3	37944	72868.1987	0.5207	-0.9414	0.00063	0.0007875	0.001575
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3	47684	37436.2946	1.2737	0.3491	0.1941	0.20796	0.3235
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3	13878	5648.6664	2.4566	1.2967	0.00047	0.00064091	0.00120857142857143
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3.Q111-enriched	4792	17956.5084	0.2669	-1.9056	0.00185	0.0069375	0.00426923076923077
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3.Q111-enriched	38403	8802.8052	4.3622	2.1251	4e-04	0.0024	0.00105882352941176
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3.Q111-enriched	7844	1398.2454	5.6066	2.4871	0.00011	0.000825	0.000319354838709677
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3.WT-enriched	0	58.5515	0.0168	-5.8961	0.95188	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3.WT-enriched	0	9.967	0.0912	-3.4551	0.96434	0.99704	0.99986
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	H3K9me3.WT-enriched	186	128.0588	1.449	0.535	0.14335	0.35837	0.25803
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	EZH2	2028530	183547.7643	11.0517	3.4662	1e-05	1.4286e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	EZH2	31791	1837.5277	17.2921	4.112	1e-05	1.4286e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	EZH2.Q111-enriched	0	182.3171	0.0055	-7.5182	0.89003	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	EZH2.Q111-enriched	0	1.9726	0.3364	-1.5717	0.99384	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	EZH2.WT-enriched	0	11.285	0.0814	-3.6188	0.98658	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	EZH2.WT-enriched	0	0.0204	0.98	-0.0291	0.99986	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27Ac	2986	6492.6065	0.46	-1.1203	0.12586	0.13984	0.231171428571429
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27Ac	2640229	571676.0659	4.6184	2.2074	1e-05	1.4286e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27Ac.Q111-enriched	0	95.4116	0.0104	-6.5911	0.77784	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27Ac.Q111-enriched	60619	6969.5491	8.6966	3.1204	1e-05	6.6667e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27Ac.WT-enriched	163	112.5111	1.4448	0.5309	0.16212	0.4632	0.286094117647059
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27Ac.WT-enriched	12924	8920.3941	1.4488	0.5348	0.22277	0.55693	0.351742105263158
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27me3	118759	631404.6138	0.1881	-2.4105	1e-05	1.4286e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27me3	42004	7195.4306	5.8369	2.5452	1e-05	1.4286e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27me3.Q111-enriched	0	439.5637	0.0023	-8.7832	0.7794	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27me3.Q111-enriched	0	5.7553	0.148	-2.756	0.98686	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27me3.WT-enriched	0	208.9548	0.0048	-7.7139	0.53485	0.99986	0.729340909090909
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K27me3.WT-enriched	37680	22869.3795	1.6476	0.7204	0.10255	0.34183	0.19228125
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K4me3	1752	2414.8547	0.7256	-0.4627	0.48522	0.48522	0.682340625
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K4me3	1605155	231720.9008	6.9271	2.7922	1e-05	1.4286e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K4me3.Q111-enriched	0	228.7389	0.0044	-7.8439	0.46987	0.99986	0.671242857142857
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K4me3.Q111-enriched	210629	30227.1161	6.968	2.8007	1e-05	6.6667e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K4me3.WT-enriched	0	11.0318	0.0831	-3.5888	0.97308	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K4me3.WT-enriched	11361	565.1165	20.0701	4.327	2e-04	0.001	0.000545454545454545
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K9me3	24940	72643.9861	0.3433	-1.5423	8e-05	1e-04	0.00024
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K9me3	23894	774.1381	30.8268	4.9461	1e-05	1.4286e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K9me3.Q111-enriched	5557	17560.8313	0.3165	-1.6598	0.02458	0.09832	0.0502772727272727
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K9me3.Q111-enriched	23610	192.8367	121.8087	6.9285	1e-05	6.6667e-05	3.21428571428571e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K9me3.WT-enriched	0	119.4005	0.0083	-6.9117	0.88084	0.99986	0.99986
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	H3K9me3.WT-enriched	0	0.9549	0.5115	-0.9671	0.9952	0.99986	0.99986
+Peakset	Peak.Subtrack	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	EZH2	3342544	371802.4817	8.9901	3.1683	1e-05	1.25e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	EZH2.Q111-enriched	4767	372.2157	12.7755	3.6753	0.00668	0.01336	0.0143142857142857
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	EZH2.WT-enriched	0	21.5944	0.0443	-4.4979	0.96102	0.96102	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K27Ac	4694240	1180422.749	3.9767	1.9916	1e-05	1.25e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K27Ac.Q111-enriched	82829	14848.7342	5.5779	2.4797	1e-05	5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K27Ac.WT-enriched	33895	18417.8566	1.8403	0.8799	0.03277	0.054617	0.06554
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K27me3	465475	1310117.0546	0.3553	-1.4929	1e-05	1.25e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K27me3.Q111-enriched	0	933.4847	0.0011	-9.868	0.29253	0.36566	0.431601639344262
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K27me3.WT-enriched	55911	46115.0272	1.2124	0.2779	0.21736	0.31051	0.349328571428571
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K4me3	2832892	473253.9357	5.986	2.5816	1e-05	1.25e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K4me3.Q111-enriched	330238	59389.0756	5.5605	2.4752	1e-05	5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K4me3.WT-enriched	13242	1216.9172	10.8735	3.4427	0.00014	0.00046667	0.00039375
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K9me3	131987	147392.0122	0.8955	-0.1593	0.26711	0.26711	0.40745593220339
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K9me3.Q111-enriched	63788	36094.3798	1.7672	0.8215	0.0049	0.01225	0.0107560975609756
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	H3K9me3.WT-enriched	186	249.4226	0.7467	-0.4213	0.73145	0.81272	0.968095588235294
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	EZH2	105707	14025.6571	7.5362	2.9138	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	EZH2	1627777	186128.2214	8.7454	3.1285	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	EZH2	1169442	91136.7846	12.8316	3.6816	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	EZH2.Q111-enriched	0	185.0548	0.0054	-7.5396	0.79696	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	EZH2.Q111-enriched	0	87.0198	0.0114	-6.4598	0.95766	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	EZH2.Q111-enriched	0	15.4286	0.0609	-4.0381	0.96147	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	EZH2.WT-enriched	0	11.1491	0.0823	-3.6028	0.981	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	EZH2.WT-enriched	0	5.0348	0.1657	-2.5933	0.99472	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	EZH2.WT-enriched	0	1.0744	0.4821	-1.0527	0.99704	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K27Ac	157930	45919.0766	3.4393	1.7821	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K27Ac	2370865	590857.2811	4.0126	2.0045	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K27Ac	1355567	282758.8287	4.7941	2.2612	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K27Ac.Q111-enriched	0	605.5691	0.0016	-9.2445	0.20967	0.41934	0.343096363636364
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K27Ac.Q111-enriched	33954	7519.4516	4.515	2.1747	8e-05	8e-04	0.00024
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K27Ac.Q111-enriched	43013	3367.7065	12.7687	3.6745	1e-05	0.00015	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K27Ac.WT-enriched	327	735.6615	0.4453	-1.1673	0.40013	0.70611	0.580833870967742
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K27Ac.WT-enriched	13241	9130.6352	1.4501	0.5362	0.18494	0.3963	0.314049056603774
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K27Ac.WT-enriched	14312	4487.2257	3.189	1.6731	0.04807	0.14421	0.09405
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K27me3	161648	652993.2001	0.2476	-2.0142	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K27me3	134892	312048.9764	0.4323	-1.21	0.00198	0.0022846	0.004455
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K27me3	56443	51673.1822	1.0923	0.1274	0.24733	0.24733	0.383787931034483
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K27me3.Q111-enriched	0	476.6021	0.0021	-8.8997	0.58691	0.9267	0.788386567164179
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K27me3.Q111-enriched	0	196.6675	0.0051	-7.6269	0.92093	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K27me3.Q111-enriched	0	38.683	0.0252	-5.3104	0.90393	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K27me3.WT-enriched	15140	22901.5177	0.6611	-0.597	0.18044	0.3963	0.3123
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K27me3.WT-enriched	2239	1740.9362	1.2859	0.3628	0.28218	0.52909	0.42327
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K27me3.WT-enriched	24542	11558.3113	2.1232	1.0863	0.08395	0.22895	0.160755319148936
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K4me3	79717	18134.0968	4.3958	2.1361	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K4me3	1372823	237280.8437	5.7856	2.5325	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K4me3	953406	114283.7018	8.3424	3.0605	1e-05	1.5e-05	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K4me3.Q111-enriched	1807	2146.5773	0.8419	-0.2483	0.49311	0.82185	0.682767692307692
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K4me3.Q111-enriched	66552	14828.6168	4.4878	2.166	0.00152	0.0065143	0.0036
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K4me3.Q111-enriched	214969	29914.2649	7.186	2.8452	1e-05	0.00015	3.21428571428571e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K4me3.WT-enriched	0	52.1436	0.0188	-5.7318	0.86425	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K4me3.WT-enriched	4638	613.0452	7.5548	2.9174	0.01251	0.0417	0.0261837209302326
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K4me3.WT-enriched	7893	285.0666	27.595	4.7863	0.00129	0.00645	0.00313783783783784
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K9me3	37944	72868.1987	0.5207	-0.9414	0.00063	0.0007875	0.001575
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K9me3	47684	37436.2946	1.2737	0.3491	0.1941	0.20796	0.3235
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K9me3	13878	5648.6664	2.4566	1.2967	0.00047	0.00064091	0.00120857142857143
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K9me3.Q111-enriched	4792	17956.5084	0.2669	-1.9056	0.00185	0.0069375	0.00426923076923077
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K9me3.Q111-enriched	38403	8802.8052	4.3622	2.1251	4e-04	0.0024	0.00105882352941176
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K9me3.Q111-enriched	7844	1398.2454	5.6066	2.4871	0.00011	0.000825	0.000319354838709677
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	H3K9me3.WT-enriched	0	58.5515	0.0168	-5.8961	0.95188	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	H3K9me3.WT-enriched	0	9.967	0.0912	-3.4551	0.96434	0.99704	0.99986
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	H3K9me3.WT-enriched	186	128.0588	1.449	0.535	0.14335	0.35837	0.25803
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	EZH2	2028530	183547.7643	11.0517	3.4662	1e-05	1.4286e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	EZH2	31791	1837.5277	17.2921	4.112	1e-05	1.4286e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	EZH2.Q111-enriched	0	182.3171	0.0055	-7.5182	0.89003	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	EZH2.Q111-enriched	0	1.9726	0.3364	-1.5717	0.99384	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	EZH2.WT-enriched	0	11.285	0.0814	-3.6188	0.98658	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	EZH2.WT-enriched	0	0.0204	0.98	-0.0291	0.99986	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K27Ac	2986	6492.6065	0.46	-1.1203	0.12586	0.13984	0.231171428571429
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K27Ac	2640229	571676.0659	4.6184	2.2074	1e-05	1.4286e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K27Ac.Q111-enriched	0	95.4116	0.0104	-6.5911	0.77784	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K27Ac.Q111-enriched	60619	6969.5491	8.6966	3.1204	1e-05	6.6667e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K27Ac.WT-enriched	163	112.5111	1.4448	0.5309	0.16212	0.4632	0.286094117647059
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K27Ac.WT-enriched	12924	8920.3941	1.4488	0.5348	0.22277	0.55693	0.351742105263158
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K27me3	118759	631404.6138	0.1881	-2.4105	1e-05	1.4286e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K27me3	42004	7195.4306	5.8369	2.5452	1e-05	1.4286e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K27me3.Q111-enriched	0	439.5637	0.0023	-8.7832	0.7794	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K27me3.Q111-enriched	0	5.7553	0.148	-2.756	0.98686	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K27me3.WT-enriched	0	208.9548	0.0048	-7.7139	0.53485	0.99986	0.729340909090909
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K27me3.WT-enriched	37680	22869.3795	1.6476	0.7204	0.10255	0.34183	0.19228125
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K4me3	1752	2414.8547	0.7256	-0.4627	0.48522	0.48522	0.682340625
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K4me3	1605155	231720.9008	6.9271	2.7922	1e-05	1.4286e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K4me3.Q111-enriched	0	228.7389	0.0044	-7.8439	0.46987	0.99986	0.671242857142857
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K4me3.Q111-enriched	210629	30227.1161	6.968	2.8007	1e-05	6.6667e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K4me3.WT-enriched	0	11.0318	0.0831	-3.5888	0.97308	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K4me3.WT-enriched	11361	565.1165	20.0701	4.327	2e-04	0.001	0.000545454545454545
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K9me3	24940	72643.9861	0.3433	-1.5423	8e-05	1e-04	0.00024
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K9me3	23894	774.1381	30.8268	4.9461	1e-05	1.4286e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K9me3.Q111-enriched	5557	17560.8313	0.3165	-1.6598	0.02458	0.09832	0.0502772727272727
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K9me3.Q111-enriched	23610	192.8367	121.8087	6.9285	1e-05	6.6667e-05	3.21428571428571e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	H3K9me3.WT-enriched	0	119.4005	0.0083	-6.9117	0.88084	0.99986	0.99986
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	H3K9me3.WT-enriched	0	0.9549	0.5115	-0.9671	0.9952	0.99986	0.99986

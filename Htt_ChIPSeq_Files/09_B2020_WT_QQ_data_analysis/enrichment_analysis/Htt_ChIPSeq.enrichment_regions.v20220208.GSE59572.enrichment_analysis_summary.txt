@@ -1,13 +1,13 @@
-Peakset	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	pQ	3186440	533515.7973	5.9725	2.5783	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Wt	3386998	554577.0245	6.1073	2.6105	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	pQ	94454	20948.0205	4.5088	2.1727	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	pQ	1503130	268275.8885	5.6029	2.4862	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	pQ	1074976	126012.3001	8.5307	3.0927	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Wt	98869	21741.4137	4.5473	2.185	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Wt	1634562	278716.9619	5.8646	2.552	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Wt	1098389	130969.9879	8.3865	3.0681	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	pQ	1989	3031.7681	0.6562	-0.6079	0.45228	0.45228	0.45228
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	pQ	1823116	256679.4205	7.1027	2.8284	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Wt	1645	3137.9262	0.5244	-0.9313	0.30463	0.30463	0.332323636363636
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Wt	1961050	266457.3992	7.3597	2.8796	1e-05	2e-05	1.2e-05
+Peakset	Peak.Subtrack	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	pQ	3186440	533515.7973	5.9725	2.5783	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Wt	3386998	554577.0245	6.1073	2.6105	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	pQ	94454	20948.0205	4.5088	2.1727	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	pQ	1503130	268275.8885	5.6029	2.4862	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	pQ	1074976	126012.3001	8.5307	3.0927	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Wt	98869	21741.4137	4.5473	2.185	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Wt	1634562	278716.9619	5.8646	2.552	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Wt	1098389	130969.9879	8.3865	3.0681	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	pQ	1989	3031.7681	0.6562	-0.6079	0.45228	0.45228	0.45228
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	pQ	1823116	256679.4205	7.1027	2.8284	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Wt	1645	3137.9262	0.5244	-0.9313	0.30463	0.30463	0.332323636363636
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Wt	1961050	266457.3992	7.3597	2.8796	1e-05	2e-05	1.2e-05

@@ -1,49 +1,49 @@
-Peakset	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	454491	82283.0083	5.5235	2.4656	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	468558	85970.2277	5.4502	2.4463	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	676439	125567.7438	5.387	2.4295	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	700319	139959.4967	5.0037	2.323	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	412055	78511.9214	5.2483	2.3918	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	394358	69670.2426	5.6603	2.5009	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	530553	104939.327	5.0558	2.3379	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	627682	119186.8784	5.2663	2.3968	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	15286	3266.6394	4.6783	2.226	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	237238	41280.0119	5.7469	2.5228	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	149623	19333.3232	7.7388	2.9521	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	14703	3396.0575	4.3285	2.1139	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	250635	43097.0538	5.8155	2.5399	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	148061	20307.3699	7.2907	2.8661	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	21340	4975.1056	4.2887	2.1005	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	330490	63030.7933	5.2432	2.3905	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	235295	29600.8162	7.9487	2.9907	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	21823	5532.7152	3.9438	1.9796	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	345186	70237.1376	4.9145	2.2971	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	244155	33003.1197	7.3977	2.8871	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	12517	3109.2142	4.0248	2.0089	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	220143	39412.9392	5.5854	2.4817	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	134342	18500.9189	7.261	2.8602	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	13421	2744.1908	4.8893	2.2896	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	206605	34990.7182	5.9044	2.5618	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	126918	16415.9778	7.731	2.9506	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	16660	4146.2942	4.0173	2.0062	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	271371	52709.2706	5.1484	2.3641	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	182840	24732.5115	7.3924	2.8861	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	18218	4705.8341	3.8708	1.9526	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	313834	59812.9975	5.2468	2.3915	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	218852	28120.2899	7.7825	2.9602	1e-05	1e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	220	447.9756	0.4922	-1.0226	0.4706	0.4706	0.491060869565217
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	275499	39487.0497	6.9768	2.8026	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	220	470.7918	0.4684	-1.0941	0.45967	0.45967	0.490314666666667
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	283350	41362.4302	6.8503	2.7762	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	220	693.8567	0.3181	-1.6527	0.28605	0.28605	0.326914285714286
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	383393	60458.089	6.3414	2.6648	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	220	767.9046	0.2874	-1.7988	0.24728	0.24728	0.289498536585366
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	397112	67353.4915	5.8959	2.5597	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	220	431.7865	0.5106	-0.9696	0.48912	0.48912	0.499526808510638
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	259322	37687.8851	6.8806	2.7825	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	220	368.6195	0.5979	-0.742	0.54671	0.54671	0.54671
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	241977	33494.8243	7.2241	2.8528	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	220	575.5396	0.3833	-1.3834	0.36403	0.36403	0.397123636363636
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	322079	50509.0353	6.3766	2.6728	1e-05	2e-05	1.2e-05
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	220	655.1533	0.3368	-1.57	0.31289	0.31289	0.349272558139535
-Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	378275	57265.7571	6.6055	2.7237	1e-05	2e-05	1.2e-05
+Peakset	Peak.Subtrack	Annotation	Observed	Expected	Fold.Change	Log2FC	Pvalue	Qvalue	Adjusted.Pvalue
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	454491	82283.0083	5.5235	2.4656	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	468558	85970.2277	5.4502	2.4463	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	676439	125567.7438	5.387	2.4295	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	700319	139959.4967	5.0037	2.323	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	412055	78511.9214	5.2483	2.3918	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	394358	69670.2426	5.6603	2.5009	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	530553	104939.327	5.0558	2.3379	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.all_reproducible	All-Reproducible	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	627682	119186.8784	5.2663	2.3968	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	15286	3266.6394	4.6783	2.226	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	237238	41280.0119	5.7469	2.5228	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	149623	19333.3232	7.7388	2.9521	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	14703	3396.0575	4.3285	2.1139	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	250635	43097.0538	5.8155	2.5399	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	148061	20307.3699	7.2907	2.8661	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	21340	4975.1056	4.2887	2.1005	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	330490	63030.7933	5.2432	2.3905	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	235295	29600.8162	7.9487	2.9907	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	21823	5532.7152	3.9438	1.9796	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	345186	70237.1376	4.9145	2.2971	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	244155	33003.1197	7.3977	2.8871	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	12517	3109.2142	4.0248	2.0089	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	220143	39412.9392	5.5854	2.4817	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	134342	18500.9189	7.261	2.8602	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	13421	2744.1908	4.8893	2.2896	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	206605	34990.7182	5.9044	2.5618	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	126918	16415.9778	7.731	2.9506	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	16660	4146.2942	4.0173	2.0062	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	271371	52709.2706	5.1484	2.3641	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	182840	24732.5115	7.3924	2.8861	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	mHTT-specific	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	18218	4705.8341	3.8708	1.9526	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-specific	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	313834	59812.9975	5.2468	2.3915	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.B2020.any_2_samples.reproducibility_groups.conditionally_reproducible	WT-mHTT-shared	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	218852	28120.2899	7.7825	2.9602	1e-05	1e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	220	447.9756	0.4922	-1.0226	0.4706	0.4706	0.491060869565217
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Cortex_08wks_pQ.filtered_qval_5.mm10.sorted.bed	275499	39487.0497	6.9768	2.8026	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	220	470.7918	0.4684	-1.0941	0.45967	0.45967	0.490314666666667
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Cortex_08wks_WT.filtered_qval_5.mm10.sorted.bed	283350	41362.4302	6.8503	2.7762	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	220	693.8567	0.3181	-1.6527	0.28605	0.28605	0.326914285714286
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Cortex_12wks_pQ.filtered_qval_5.mm10.sorted.bed	383393	60458.089	6.3414	2.6648	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	220	767.9046	0.2874	-1.7988	0.24728	0.24728	0.289498536585366
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Cortex_12wks_WT.filtered_qval_5.mm10.sorted.bed	397112	67353.4915	5.8959	2.5597	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	220	431.7865	0.5106	-0.9696	0.48912	0.48912	0.499526808510638
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Striatum_08wks_pQ.filtered_qval_5.mm10.sorted.bed	259322	37687.8851	6.8806	2.7825	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	220	368.6195	0.5979	-0.742	0.54671	0.54671	0.54671
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Striatum_08wks_WT.filtered_qval_5.mm10.sorted.bed	241977	33494.8243	7.2241	2.8528	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	220	575.5396	0.3833	-1.3834	0.36403	0.36403	0.397123636363636
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Striatum_12wks_pQ.filtered_qval_5.mm10.sorted.bed	322079	50509.0353	6.3766	2.6728	1e-05	2e-05	1.2e-05
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	QQ-enriched	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	220	655.1533	0.3368	-1.57	0.31289	0.31289	0.349272558139535
+Htt_ChIPSeq.any_2_samples.diffbind.B2020.genotype_enriched	WT-enriched	Striatum_12wks_WT.filtered_qval_5.mm10.sorted.bed	378275	57265.7571	6.6055	2.7237	1e-05	2e-05	1.2e-05
