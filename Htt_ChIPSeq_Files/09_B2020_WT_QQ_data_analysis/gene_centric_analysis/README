@@ -1,3 +1,24 @@
 Gene Centric DiffBind Analyses of:
 1. Analytical results of promoter occupancy after analyzing ChIP-Seq datasets 2020 (WT and QQ) using Broad Peak strategy
 2. Analytical results of promoter occupancy after re-analyzing ActiveMotif ChIP-Seq datasets for EZH2, H3K4me3, H3K9me3, H3K27me3, H3K27Ac
+
+On Mar 16, 2022, at 4:33 PM, Shetty, Amol <ashetty@som.umaryland.edu> wrote:
+
+Hi Jeff, Seth,
+
+I have uploaded the results from the latest iteration of gene-centric and integrated -omics analyses to:
+https://github.com/seth-ament/ament-carroll-collab/tree/master/Htt_ChIPSeq_Files/09_B2020_WT_QQ_data_analysis/integrated_omics
+
+These include:
+  1. Gene-centric diffbind results based on promoter occupancy of HTT ChIPSeq from the WT and QQ samples from B2020
+  2. Gene-centric diffbind results based on promoter occupancy of ActiveMotif Histone ChIPSeq for EZH2, H3K4me3, H3K9me3, H3K27me3, H3K27Ac
+  3. Integration of analytical results for the above diffbind results based on promoter occupancy in RNASeq DEGs from the Langfelder et. al. publication
+        This includes the new illustrations for Figure 5 of the manuscript comparing diffbind LFC from HTT ChIPSeq to each of the 5 ActiveMotif Histone ChIPSeq
+        https://github.com/seth-ament/ament-carroll-collab/blob/master/Htt_ChIPSeq_Files/09_B2020_WT_QQ_data_analysis/integrated_omics/JCarroll.HD_mouse_model.mm10.integrated_omics.v20220315.pdf
+
+Looking forward to your thoughts and comments. Have a great week!
+
+Regards,
+Amol
+
+---
